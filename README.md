@@ -22,9 +22,8 @@
 
 ### 📌 Projetos em destaque
 
-- [🔗 Trash Tracker](https://github.com/victorwzz7/Trash-Tracker) – Gerenciamento de coleta de resíduos
-- [🔗 Ticket Generator](https://github.com/victorwzz7/ticket-generator) – Geração de tickets com Next.js
-- [🔗 Painel de TI](https://github.com/victorwzz7/) – Painel de solicitações internas com Supabase
+- [🔗 Trash Tracker](https://github.com/Victorwz7/trash-tracker) – Gerenciamento de coleta de resíduos
+- [🔗 Painel de TI](https://github.com/Victorwz7/plataforma-chamados) – Painel de solicitações internas com Supabase
 
 ---
 
