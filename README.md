@@ -23,6 +23,7 @@
 ### 📌 Projetos em destaque
 
 - [🔗 Trash Tracker](https://github.com/Victorwz7/trash-tracker) – Gerenciamento de coleta de resíduos
+- [🔗 PixPayflow](https://github.com/Victorwz7/pixpayflow) – Um banco totalmente funcional
 - [🔗 Painel de TI](https://github.com/Victorwz7/plataforma-chamados) – Painel de solicitações internas com Supabase
 
 ---
