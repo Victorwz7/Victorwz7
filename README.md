@@ -1,10 +1,9 @@
-<h1 align="center">Olá! Eu sou o Victor 👋</h1>
+<h1 align="center">Hi! i am Victor 👋</h1>
 
-🎓 Estudante e desenvolvedor front-end júnior  
-💻 Apaixonado por tecnologia e programação  
-🔭 Atualmente trabalhando em projetos com Next.js, TypeScript e Supabase  
-🌱 Aprendendo mais sobre back-end com Prisma e bancos de dados
-
+🎓 Studying and working as a junior full-stack developer  
+💻 Passionate about technology and programming  
+🔭 Currently building projects with Next.js, TypeScript, and Supabase  
+🌱 Learning more about backend development with Prisma and databases
 
 ### 🚀 Tecnologias que uso
 
